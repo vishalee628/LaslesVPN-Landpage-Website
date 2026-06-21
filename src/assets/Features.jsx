@@ -28,7 +28,7 @@ function Features() {
               their own functions each feature.
             </p>
 
-            <div className="feature-item">
+            <div className="feature-item ">
               <img src={tick} alt="" />
               <p>Powerfull online protection.</p>
             </div>
